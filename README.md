@@ -4,8 +4,9 @@
 
 This project focuses on classifying patient conditions based on drug reviews using Machine Learning and Natural Language Processing (NLP) techniques. The goal is to analyze textual reviews provided by patients and predict the medical condition they are referring to.
 
-
+Live Demo
 http://localhost:8501/
+
 
 🛠️ Tools & Technologies Used
 
